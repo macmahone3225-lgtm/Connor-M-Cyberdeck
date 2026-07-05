@@ -1,4 +1,4 @@
-# Connor-M-Cyberdeck
+# Cyberdeck
 Rugged modular cyberdeck by Connor M
 # Cyberdeck by Connor McMahon
 
