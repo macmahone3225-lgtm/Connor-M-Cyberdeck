@@ -33,3 +33,21 @@ Contact: Connor M – 716-345-0539
 
 ## License
 MIT License for open-source use. Commercial rights and proprietary implementations reserved.
+# Cyberdeck Project by Connor McMahon (Teaser)
+
+## Overview
+Rugged modular portable computing platform with aerospace-inspired design.
+
+## What’s Included in Teaser
+- High-level schematics
+- Sample 3D printable parts
+- Feature overview
+
+## Full Commercial Package Available
+Complete blueprints, full STL files, detailed assembly guides, code, and support.
+
+**Price**: [Set your price, e.g., $49–$199 depending on package]
+
+Contact to purchase: 716-345-0539 or email.
+
+Full version includes commercial use rights.
