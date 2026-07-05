@@ -1,6 +1,6 @@
 # Cyberdeck
-Rugged modular cyberdeck by Connor M
-# Cyberdeck by Connor McMahon
+Rugged modular cyberdeck by Hierophant
+# Cyberdeck by Hierophant 
 
 ## Overview
 A rugged, modular, portable cyberdeck designed for field computing, resilience in challenging environments, and customization. Inspired by aerospace engineering principles for durability and efficiency.
